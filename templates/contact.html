@@ -1,0 +1,17 @@
+{% extends "parent.html" %}
+{% block content %}
+
+    <h2>Contact:</h2>
+    <ul>
+        <li>e-mail: 123fk@emalia.pl</li>
+        <li>Phone: +48 123 456 789</li>
+    </ul>
+
+    <label for="send_message">Send a message:</label></br>
+
+    <form method="POST" action="/message">
+        <input type="text" name="message">
+        <input type="submit" value="Send">
+      </form>
+
+{% endblock %}

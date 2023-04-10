@@ -1,0 +1,17 @@
+h1 {
+    color: rgb(0, 56, 53);
+    text-align: center;
+  }
+  h1 {
+    border-bottom: 1px solid blue;
+    padding: 10px;
+  }
+  .first {
+    font-size: 22px;
+    margin-left: 10px;
+  }
+  .second {
+    font-size: 18px;
+    color: orange;
+    margin-left: 30px;
+  }

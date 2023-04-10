@@ -1,0 +1,9 @@
+h1 {
+  color: rgb(0, 56, 53);
+  text-align: center;
+}
+h2  {
+    border-bottom: 1px solid blue;
+    padding: 10px;
+  }
+
